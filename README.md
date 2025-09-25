@@ -1,7 +1,7 @@
 # Amazon Clone
 
 A simple front-end clone of Amazon’s homepage built with **HTML**, **CSS**, and basic **JavaScript**.  
-This was one of my early projects to practice layout design, styling, and simple interactivity.
+This was one of my early projects in 2022 to practice layout design, styling, and simple interactivity.
 
 ## Features
 - Amazon-like header, product grid, and footer  
